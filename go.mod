@@ -1,3 +1,3 @@
-module gocache
+module mycache
 
 go 1.16
